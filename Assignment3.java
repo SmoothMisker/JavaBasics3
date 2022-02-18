@@ -28,7 +28,7 @@ public class Assignment3{
 			}
 		}catch(IOException e){e.printStackTrace();}
 
-		System.out.println(counter + " Occurences");
+		System.out.println(counter + " Occurrences");
 
 	}
 }
